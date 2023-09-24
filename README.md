@@ -20,3 +20,6 @@ http://localhost:8080/api/product
 GET
 
 Note : RedisInsight is the redis client to check 
+
+
+![image](https://github.com/srss-pocs/springboot-redisdb/assets/145287517/344e6c5f-884c-45f1-ac0f-f1332f309a0e)
