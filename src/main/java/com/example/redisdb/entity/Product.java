@@ -13,6 +13,7 @@ import java.io.Serializable;
 @NoArgsConstructor
 @RedisHash("Product")
 public class Product implements Serializable {
+	private static final long serialVersionUID = -1239743723453535123L;
 	@Id
 	private int id;
 	private String name;
