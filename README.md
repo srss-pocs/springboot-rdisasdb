@@ -1,3 +1,5 @@
+Spring Boot 3.1.4
+
 A Simple Spring Boot Redis as database application for CRUD operations
 
 Steps : Download redis for windows and start the redis server
